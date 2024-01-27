@@ -4,7 +4,7 @@ USER-AGENT,Bilibili*
 USER-AGENT,bili*
 USER-AGENT,bili-inter*
 DOMAIN,apiintl.biliapi.net
-DOMAIN,upos-hz-mirrorakam.akamaized.net
+# DOMAIN,upos-hz-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,acg.tv
 DOMAIN-SUFFIX,acgvideo.com
 DOMAIN-SUFFIX,b23.tv
@@ -16,8 +16,8 @@ DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,bilibili.tv
 DOMAIN-SUFFIX,biligame.com
 DOMAIN-SUFFIX,biligame.net
-DOMAIN-SUFFIX,bilivideo.cn
-DOMAIN-SUFFIX,bilivideo.com
+# DOMAIN-SUFFIX,bilivideo.cn
+#DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,im9.com
 DOMAIN-SUFFIX,smtcdns.net
